@@ -1,4 +1,4 @@
-## This GitHub thing is very interesting 👋
+## Oooga Booga 👋
 
 <!--
 **onaiseug/onaiseug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
